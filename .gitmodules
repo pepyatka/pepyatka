@@ -1,0 +1,12 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:pepyatka/pepyatka-server.git
+[submodule "client-html"]
+	path = client-html
+	url = git@github.com:pepyatka/pepyatka-html.git
+[submodule "client-ios"]
+	path = client-ios
+	url = git@github.com:pepyatka/pepyatka-ios.git
+[submodule "website"]
+	path = website
+	url = git@github.com:pepyatka/website.git
