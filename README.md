@@ -13,3 +13,7 @@ How to install
 1. Build and run [HTML Client](https://github.com/pepyatka/pepyatka-html). Open [http://localhost:3333/](http://localhost:3333/) in your browser.
 1. (optional) Build and run [iOS Client](https://github.com/pepyatka/pepyatka-ios)
 
+Deployment
+----------
+
+1. Check out [instructions](https://github.com/pepyatka/pepyatka-ansible)

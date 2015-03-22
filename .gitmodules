@@ -10,3 +10,6 @@
 [submodule "website"]
 	path = website
 	url = git@github.com:pepyatka/website.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:pepyatka/pepyatka-ansible.git
