@@ -1,6 +1,8 @@
 Pepyatka
 ========
 
+[![Join the chat at https://gitter.im/pepyatka/pepyatka](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pepyatka/pepyatka?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Pepyatka is an open source FriendFeed clone. Basically, this is a
 social real-time feed aggregator that allows you to share cute kitty
 photos, coordinate upcoming events, discuss any other cool stuff on the
